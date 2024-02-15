@@ -1,5 +1,7 @@
 # wishlist
 
+A program to store a list of products you want to buy.
+
 ## Dependencies
 Install dependencies for Laravel
 ```
